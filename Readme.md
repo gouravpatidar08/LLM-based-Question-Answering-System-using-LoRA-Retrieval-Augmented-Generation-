@@ -1,4 +1,4 @@
-# Paper Q/A RAG LoRA
+# LLM-based Question Answering System using LoRA & Retrieval-Augmented Generation 
 
 Upload one research paper, ask natural-language questions, get grounded, cited,
 verified answers. Built phase by phase — each phase is independently demoable and
